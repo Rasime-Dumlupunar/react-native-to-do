@@ -26,4 +26,4 @@ This is a simple and intuitive To-Do application built using React Native. The a
 - react-native-svg
 - react-native-uuid
 
-! [] ()# react-native-to-do
+! [] (https://github.com/Rasime-Dumlupunar/react-native-to-do/blob/main/to-do.gif)
