@@ -15,7 +15,6 @@ This is a simple and intuitive To-Do application built using React Native. The a
 
 - React Native
 - @react-navigation/native
-- @react-navigation/native-stack
 - @react-native-async-storage/async-storage
 - iconsax-react-native
 - lottie-react-native
